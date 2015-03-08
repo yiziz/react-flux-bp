@@ -1,0 +1,7 @@
+{
+  "name": "recruitership",
+  "version": "0.1.0",
+  "dependencies": {
+    "bootstrap-sass": "~3.3.3"
+  }
+}
